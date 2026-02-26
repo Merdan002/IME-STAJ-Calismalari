@@ -1,5 +1,6 @@
 <?php
-echo "<h1>FARK ETMEZ! Proje Altyapısı</h1>";
+echo "<h1>PHP ve LARAVEL Uygulamaları</h1>";
 echo "Durum: Laravel ve Docker kurulumu tamamlandı.<br>";
-echo "Hedef: Discord Webhook ile sistem bildirimlerini otomatize etmek.";
+echo "Hedef: güvenli ve profesyonel bir programcı olmak.";
 ?>
+
