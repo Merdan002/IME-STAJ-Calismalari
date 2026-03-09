@@ -1,0 +1,61 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>CV - Merdan Ali Sever</title>
+</head>
+
+<body>
+
+<h1>Merdan Ali Sever</h1>
+<p><b>Meslek:</b> Bilgisayar Programcılığı Öğrencisi</p>
+<p><b>Email:</b> severmerdanali@gmail.com</p>
+<p><b>Telefon:</b> 0537 016 43 27</p>
+<p><b>Şehir:</b> Mersin / Türkiye</p>
+
+<hr>
+
+<h2>Hakkımda</h2>
+<p>
+Bilgisayar programcılığı alanında kendimi geliştirmeye çalışan
+bir öğrenciyim. Web teknolojileri ve yazılım geliştirme ile
+ilgileniyorum.
+</p>
+
+<hr>
+
+<h2>Eğitim</h2>
+<ul>
+<li>Bilgisayar Programcılığı - Tarsus Üniversitesi</li>
+<li>Lise Eğitimi-  Fatih Anadolu Lisesi</li>
+</ul>
+
+<hr>
+
+<h2>Yetenekler</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>C#</li>
+<li>SQL</li>
+</ul>
+
+<hr>
+
+<h2>Projeler</h2>
+<ul>
+<li>Avukat Tanıtım Web Sitesi</li>
+<li>Stok Takip Sistemi</li>
+
+</ul>
+
+<hr>
+
+<h2>GitHub</h2>
+<p>
+<a href="https://github.com/Merdan.002">GitHub Profilim</a>
+</p>
+
+</body>
+</html>
