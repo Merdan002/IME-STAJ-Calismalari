@@ -1,0 +1,77 @@
+ /* Sayfanın ortasında göstermek için */
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background:blue;
+	
+}
+
+/* Çöp adamın ana divi */
+.adam{
+    position:relative;
+}
+
+/* kafa */
+.kafa{
+    width:60px;
+    height:60px;
+    border:4px solid black;
+    border-radius:50%; /* daire yapar */
+    margin:auto;
+	border-inline-color:red;
+	border-outline-color:yellow;
+	
+}
+
+/* gövde */
+.govde{
+    width:4px;
+    height:100px;
+    background:black;
+    margin:auto;
+}
+
+/* kolların ortak özellikleri */
+.kol{
+    width:80px;
+    height:4px;
+    background:black;
+    position:absolute;
+    top:90px;
+}
+
+/* sol kol */
+.solKol{
+    left:-45px;
+}
+
+/* sağ kol */
+.sagKol{
+    right:-45px;
+
+    /* kolun dönme noktası */
+    transform-origin:left center;
+}
+
+/* bacakların ortak özellikleri */
+.bacak{
+    width:4px;
+    height:90px;
+    background:black;
+    position:absolute;
+    top:160px;
+}
+
+/* sol bacak */
+.solBacak{
+    left:12px;
+    transform:rotate(25deg);
+}
+
+/* sağ bacak */
+.sagBacak{
+    right:12px;
+    transform:rotate(-25deg);
+}
