@@ -6,8 +6,9 @@ Projede, gerçek hayata yakın bir sistem modeli oluşturularak tablolar arasın
 Daha sonra bire çok (One To Many) ilişkisi üzerinde çalışılmış ve bir tablodaki kaydın birden fazla kayıt ile ilişkilendirilebildiği görülmüştür. Bu ilişkiye örnek olarak bir dersin birden fazla ödeve sahip olması senaryosu uygulanmıştır.
 Devamında çoka çok (Many To Many) ilişki türü ele alınmış ve iki tablonun birbirine çoklu şekilde bağlanabilmesi için pivot tablo kullanımı öğrenilmiştir. Bu yapı sayesinde daha esnek veri ilişkileri kurulabildiği gözlemlenmiştir.
 Ayrıca dolaylı ilişkilerden biri olan HasManyThrough yapısı incelenmiş ve bir modelin başka bir modele doğrudan değil, aradaki farklı bir tablo aracılığıyla erişebildiği anlaşılmıştır. Bunun yanında polymorphic ilişkiler üzerinde çalışılarak tek bir tablonun birden fazla model tarafından ortak kullanılabildiği görülmüştür. Bu kapsamda resim, yorum ve etiket sistemleri için polymorphic yapıların kullanımı incelenmiştir.
+---
 ## Kullanılan Uygulamalar
-• Laravel Herd
+- Laravel Herd
 • Visual Studio Code
 • GitHub
 • SQLite
