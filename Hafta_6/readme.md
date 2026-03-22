@@ -36,6 +36,4 @@ Bu hafta yapılan çalışmalar sonucunda Laravel **Eloquent ORM** ile veritaban
 Ayrıca yapılan çalışmalar sırasında farklı kaynaklardan ve yapay zeka destekli araçlardan yararlanılarak konular pekiştirilmiş ve uygulama mantığı daha net bir şekilde kavranmıştır.
 
 ---
-
-## GitHub
-🔗 https://github.com/Merdan002/IME-STAJ-Calismalari
+ 
