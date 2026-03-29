@@ -12,7 +12,7 @@ Performans açısından sistemin daha verimli çalışması için cache (önbell
 Ekip çalışması kapsamında ortak kod yazım standartları belirlenmiş ve herkesin aynı kurallara uygun kod yazması sağlanmıştır. Proje yapısı modüler hale getirilerek Controller, Model ve View katmanlarına ayrılmış ve ekip üyelerinin farklı modüller üzerinde paralel çalışabilmesi mümkün hale getirilmiştir. Ayrıca yapılan çalışmalar Markdown formatında dökümante edilerek proje için kalıcı bir bilgi kaynağı oluşturulmuştur.
 
 ## Not: Stajer Takip Programı
-bu çalışmalar geliştirilen Stajer Taki Programı üzerinden görev dağılımlarıyla ortak bir proje olarak yürütülmüş herkese atanılan görevler kendi branch i üzerinden yürütülüp proje yöneticisi tarafından attığımız "pr" kontrol edilip merge edilerek ortak bir proje geliştirilmiştir. 
+bu çalışmalar geliştirilen Stajer Takip Programı üzerinden görev dağılımlarıyla ortak bir proje olarak yürütülmüş herkese atanılan görevler kendi branch i üzerinden yürütülüp proje yöneticisi tarafından attığımız "pr" kontrol edilip merge edilerek ortak bir proje geliştirilmiştir. 
 ---
 
 ## Kullanılan Uygulamalar
