@@ -23,4 +23,4 @@ Bu hafta, geliştirme ortamlarının standartlaştırılması ve taşınabilir h
 - Docker  
 - Ubuntu 22.04  
 - Linux Terminal Komutları  
-- Tailscale  
+- Tailscale
