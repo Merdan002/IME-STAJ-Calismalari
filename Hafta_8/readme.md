@@ -45,7 +45,7 @@ Ayrıca **Clean Code** prensipleri ile daha okunabilir, anlaşılır ve sürdür
 - ASP.NET Core  
 - Entity Framework Core  
 - Angular  
-- Visual Studio / Visual Studio Code  
+- Visual Studio / Visual Studio Code
 
 ---
 
