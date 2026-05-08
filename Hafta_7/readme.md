@@ -20,7 +20,7 @@ Ekip çalışması kapsamında ortak kod yazım standartları belirlenmiş ve he
 • Visual Studio Code  
 • Git ve GitHub  
 • SQLite  
-. Herd
+. Herd.
 
 ---
 
